@@ -1,4 +1,4 @@
-const URL="https://itauturma7a-saitoal.herokuapp.com/validacpf?cpf="
+const URL="https://validadorjava-saitoal.herokuapp.com/validacpf?cpf="
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
